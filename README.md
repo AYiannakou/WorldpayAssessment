@@ -5,7 +5,7 @@ Simple Rest API
 
 # Add new product request
 
--> parameters (type,des,price)
+-> parameters (type,description,price)
 
 http://localhost:8080/com.manager/controller/add?type="type"&des="description&price="price"
 
