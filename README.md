@@ -15,7 +15,7 @@ http://localhost:8080/com.manager/controller/offers
 
 # Remove offer request
 
-->parameters (id)
+->parameter (id)
 
 http://localhost:8080/com.manager/controller/remove?id="id"
 
